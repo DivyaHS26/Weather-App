@@ -35,11 +35,3 @@ Humidity: 60%\
 Wind Speed: 12 km/h\
 The app will also narrate: **"The weather in New York is partly cloudy. The temperature is 15 degrees Celsius, with 60 percent humidity, and wind speed of 12 kilometers per hour."**
 
-# Note
-* The app requires an active internet connection to fetch weather data.
-
-# License
-This project is licensed under the [MIT License](https://opensource.org/license/MIT).
-
-# Authors
-[Divya HS](https://github.com/DivyaHS26)
